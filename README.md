@@ -8,9 +8,10 @@
 ![profile count](https://komarev.com/ghpvc/?username=pankajsharmacs18&color=red)&nbsp;
 [![GitHub pankajsharmacs18](https://img.shields.io/github/followers/pankajsharmacs18?label=follow&style=social)](https://github.com/pankajsharmacs18)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-###\
-###\
-###\
+\
+\
+\
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Ongoing Greduate Student  and researcher at ![GLA University,Mathura](https://www.gla.ac.in/) , in the field of Computer science and technolgy 
