@@ -2,7 +2,7 @@
 ### <img alt="handwavegif" src="https://hrcdn.net/s3_pub/hr-avatars/0ef547cd-5257-412b-9cd9-49f3cfcfd007/150x150.png" width='200' align="left"/> 
 
 
-### <img alt="handwavegif" src="https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg" width='40' align="left"/> ankaj Sharma
+### <img alt="" src="# width='40' align="left"/> Pankaj Sharma
 ![version :25.03.2021](https://img.shields.io/badge/version-01.06.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=pankajsharmacs18&color=red)&nbsp;
 [![GitHub pankajsharmacs18](https://img.shields.io/github/followers/pankajsharmacs18?label=follow&style=social)](https://github.com/pankajsharmacs18)&nbsp;
