@@ -13,9 +13,10 @@
 \
 \
 \
+\
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Ongoing Greduate Student  and researcher at ![GLA University,Mathura](https://www.gla.ac.in/) , in the field of Computer science and technolgy 
+💡 &nbsp; I'm a Ongoing Greduate Student  and researcher at ![GLA University,Mathura](https://www.gla.ac.in) , in the field of Computer science and technolgy 
 patterns.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at GLA University, Mathura (2018-2022).\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Homomorphic Encryption, and Computer Vision.\
