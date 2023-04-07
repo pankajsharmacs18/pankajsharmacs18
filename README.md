@@ -1,5 +1,5 @@
 <!-- ![BannerGIF](#) -->
-### <img alt="handwavegif" src="https://hrcdn.net/s3_pub/hr-avatars/0ef547cd-5257-412b-9cd9-49f3cfcfd007/150x150.png" width='200' align="left"/> 
+### <img alt="handwavegif" src="[https://hrcdn.net/s3_pub/hr-avatars/0ef547cd-5257-412b-9cd9-49f3cfcfd007/150x150.png](https://avatars.githubusercontent.com/u/47051537?v=4)" width='200' align="left"/> 
 
 
 ### <img alt="" src="#" width='40' align="left"/> Pankaj Sharma
