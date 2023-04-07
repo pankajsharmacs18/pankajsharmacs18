@@ -14,7 +14,7 @@ patterns.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Homomorphic Encryption, and Computer Vision.\
 ✍️ &nbsp;In my free time, I play Chess, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at pankaj.sharma_cs18@gla.ac.in. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at pankajsharma9m@gmail.com . I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1FaWgNEXcYo7khAg507vouAcvqBlwkHQb/view?usp=sharing) for more details about work experience.
 
 
