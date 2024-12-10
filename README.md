@@ -1,6 +1,6 @@
 <!-- ![BannerGIF](#) -->
-### <img alt="pankaj sharma" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fpriyaranjankumar%2F051eef758814e64902f213da8ca0d54e&psig=AOvVaw3FZSMqU_G6DQtYQ-31vMMT&ust=1733922177916000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCi8tChnYoDFQAAAAAdAAAAABBB" width='100%' height='200px'/>
-### <img alt="" src="https://www.shutterstock.com/image-vector/programming-code-coding-hacker-background-260nw-1740319322.jpg" width='40' align="left"/><h> Pankaj Sharma </h2>
+### <img alt="pankaj sharma" src="![image](https://github.com/user-attachments/assets/fec9af1c-28fb-4c8f-89bc-ed4e04179081)
+" width='40' align="left"/><h> Pankaj Sharma </h2>
 
 ![version :25.03.2021](https://img.shields.io/badge/version-01.06.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=pankajsharmacs18&color=red)&nbsp;
