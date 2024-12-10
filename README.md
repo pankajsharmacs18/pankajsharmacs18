@@ -1,6 +1,6 @@
 <!-- ![BannerGIF](#) -->
-### <img alt="pankaj sharma" src="https://github.com/user-attachments/assets/fec9af1c-28fb-4c8f-89bc-ed4e04179081" width="40" align="left"/>
-<h2>Pankaj Sharma</h2>
+### <img alt="pankaj sharma" src="https://github.com/user-attachments/assets/fec9af1c-28fb-4c8f-89bc-ed4e04179081" width="100%" height="250px" align="left"/>
+<h1 align="center">Pankaj Sharma</h1>
 
 ![version :25.03.2021](https://img.shields.io/badge/version-01.06.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=pankajsharmacs18&color=red)&nbsp;
@@ -8,34 +8,44 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Ongoing Greduate Student  and researcher at ![GLA University,Mathura](https://www.gla.ac.in) , in the field of Computer science and technolgy 
-patterns.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at GLA University, Mathura (2018-2022).\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play Chess, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at pankajsharma9m@gmail.com . I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1FaWgNEXcYo7khAg507vouAcvqBlwkHQb/view?usp=sharing) for more details about work experience.
+# Hi there! I'm 👨‍💻 PANKAJ SHARMA   👋
 
+I'm an **Associate Full Stack Developer** with a strong passion for building intuitive and scalable web applications. With a knack for both **frontend** and **backend** development, I thrive on solving real-world problems with technology.
 
-### 🛠 &nbsp;Tech Stack
+- 🎓 **Bachelor's Degree in Computer Science** from **GLA University, Mathura**.
+- 🌱 Currently exploring **Machine Learning**, **Web Development**, and **Cloud Technologies**.
+- 💬 Happy to collaborate on **Full Stack Projects**, **System Design**, and **Problem Solving**.
+- 🏆 **Hobbies**: Chess, Football, and Creative Writing.
+- 📫 **Contact**: [pankajsharma9m@gmail.com](mailto:pankajsharma9m@gmail.com)
+- 📄 [**View My Resume**](https://docs.google.com/document/d/1sNlasCFfmRc0Yj5_JMtx11ElSlTyo__fFQxVXhWZY3E/edit?usp=sharing)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
+### **🚀 Skills**
+
+#### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp;  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)&nbsp;  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)&nbsp;  
+
+#### **Frontend Development**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)&nbsp;  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)&nbsp;  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)&nbsp;  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)&nbsp;  
+
+#### **Backend Development**
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)&nbsp;  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)&nbsp;  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)&nbsp;  
+
+#### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)&nbsp;  
+
+#### **Tools & Technologies**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)&nbsp;  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)&nbsp;  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)&nbsp;  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)&nbsp;  
 
 ### 📫 &nbsp; How to reach me:
 
@@ -43,21 +53,6 @@ patterns.\
 <a href="https://www.linkedin.com/in/pankajsharmacs18/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:pankajsharma9m@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.hackerrank.com/pankajsharmacs18"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> &nbsp;
-
-<!--
-**PankajSharma/PankajSharma* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
