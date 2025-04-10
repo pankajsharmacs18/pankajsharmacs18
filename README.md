@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fec9af1c-28fb-4c8f-89bc-ed4e04179081" width="100%" height="300px" style="border-radius: 10px; object-fit: cover; box-shadow: 0 10px 20px rgba(0,0,0,0.1)"/>
+  <img src="https://photos.app.goo.gl/NcwUwPChDA5Z9u7D8" width="100%" height="300px" style="border-radius: 10px; object-fit: cover; box-shadow: 0 10px 20px rgba(0,0,0,0.1)"/>
   
   <h1>Pankaj Sharma</h1>
   <h3>🚀 Full Stack Developer | Automation Engineer | Problem Solver</h3>
