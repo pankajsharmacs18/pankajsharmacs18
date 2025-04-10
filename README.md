@@ -1,55 +1,111 @@
-<!-- ![BannerGIF](#) -->
 <div align="center">
-  <img alt="Pankaj Sharma" src="https://github.com/user-attachments/assets/fec9af1c-28fb-4c8f-89bc-ed4e04179081" width="100%" height="300px" style="border-radius: 10px; object-fit: cover; box-shadow: 0 10px 20px rgba(0,0,0,0.1)"/>
-</div>
-
-<h1 align="center">👋 Hi, I'm Pankaj Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
-
-<div align="center">
+  <img src="https://github.com/user-attachments/assets/fec9af1c-28fb-4c8f-89bc-ed4e04179081" width="100%" height="300px" style="border-radius: 10px; object-fit: cover; box-shadow: 0 10px 20px rgba(0,0,0,0.1)"/>
   
-![version :01.06.2024](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpankajsharmacs18%2Fpankajsharmacs18%2Fmain%2Fpackage.json&style=flat-square)
-![visitors](https://komarev.com/ghpvc/?username=pankajsharmacs18&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/pankajsharmacs18?color=blueviolet&style=flat-square)](https://github.com/pankajsharmacs18)
-![build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
-
+  <h1>Pankaj Sharma</h1>
+  <h3>🚀 Full Stack Developer | Automation Engineer | Problem Solver</h3>
+  
+  ![version](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpankajsharmacs18%2Fpankajsharmacs18%2Fmain%2Fpackage.json)
+  ![visitors](https://komarev.com/ghpvc/?username=pankajsharmacs18&color=blueviolet)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pankajsharmacs18/)
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
+Experienced **Automation Engineer & Full Stack Developer** with expertise in:
+- Test Automation (Selenium, Appium, TestNG)
+- MERN Stack (ReactJS, Node.js, Express.js, MongoDB)
+- Django & Python development
+- CI/CD pipeline integration
 
-I'm a passionate **Full Stack Developer** with expertise in building robust web applications. My journey in tech is driven by curiosity and the desire to create impactful solutions.
-
-- 🔭 Currently working on **AI-powered applications**
-- 🌱 Learning **Cloud Architecture & DevOps**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Django, or System Design**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+Passionate about building scalable solutions and optimizing software quality through automation.
 
 ---
 
-### 🛠 Tech Stack
+### 📍 Contact
+- **Location**: Bahjoi-Sambhal, Uttar Pradesh (244410)
+- **Email**: [pankajtza@gmail.com](mailto:pankajtza@gmail.com)
+- **Phone**: +91 9458512418
+- **Portfolio**: [Your Portfolio Link](#)
+- **GitHub**: [pankajsharmacs18](https://github.com/pankajsharmacs18)
 
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+---
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+### 🛠 Technical Skills
 
-#### 🗃 Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+#### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)
 
-#### 🛠 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+#### **Web Development**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+#### **Testing & Automation**
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-000000?logo=appium&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-000000?logo=testng&logoColor=white)
+
+#### **Tools & Platforms**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white)
+
+---
+
+### 💼 Work Experience
+
+#### **Conexus TechLabs Pvt. Ltd.** (Sep 2022 - Present)
+*Software Engineer | Delhi, India*
+- Automated testing for HRone, FriendlyBoss, MoonTV reducing manual efforts by 40%
+- Developed PB-Bank admin dashboard using ReactJS, Node.js, Express.js & MongoDB
+- Implemented JWT authentication & role-based access control
+- Integrated automated tests into CI/CD pipelines using Jenkins & GitHub Actions
+
+#### **Colaborar Labs Pvt. Ltd.** (Oct 2021 - Sep 2022)
+*Associate Software Engineer | Noida, India*
+- Developed financial data management system using Python, Django, ReactJS
+- Led UAT for HDFC Bank ensuring compliance and issue resolution
+- Built video playback and content management for Crackle streaming platform
+
+#### **HireSure.ai** (May 2021 - Jun 2021)
+*ML Intern | Bangalore, India*
+- Developed Django-based chatbot for user interaction
+- Performed data cleaning and ML model training
+
+---
+
+### 🎓 Education
+- **B.Tech in Computer Science**  
+  GLA University, Mathura (2018-2022)
+- **Intermediate**  
+  Varshney Inter College, Bahjoi (2016-2017)
+- **High School**  
+  Shiv Devi Inter College, Bahjoi (2014-2015)
+
+---
+
+### 🏆 Projects
+
+#### **Indyfin Financial Project**
+- Built financial data system with Python, Django, ReactJS
+- Optimized data pipelines using Luigi & AWS
+
+#### **HDFC Bank UAT**
+- Executed User Acceptance Testing using Python, Selenium
+- Ensured compliance with banking regulations
+
+#### **Crackle Streaming Platform**
+- Developed video playback and user authentication
+- Implemented content management features
+
+#### **PB-Bank Admin Dashboard**
+- Created responsive admin UI with ReactJS
+- Built RESTful APIs with Node.js & Express.js
 
 ---
 
@@ -57,49 +113,19 @@ I'm a passionate **Full Stack Developer** with expertise in building robust web 
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=pankajsharmacs18&theme=radical&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pankajsharmacs18&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharmacs18&layout=compact&theme=radical&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharmacs18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 Won **Hackathon XYZ 2023**
-- 📝 Published article on **Medium** about React optimization
-- 🎓 Certified **AWS Developer Associate**
-- 🚀 Contributed to **10+ open source projects**
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing React Performance](https://medium.com/@pankajsharma/optimizing-react-performance)
-- [Building Scalable Microservices](https://medium.com/@pankajsharma/scalable-microservices)
-- [AI in Web Development](https://medium.com/@pankajsharma/ai-in-webdev)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🤝 Let's Connect
-
+### 📫 Let's Connect
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajsharmacs18/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pankajsharma)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pankajsharma)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pankajsharma/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajtza@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pankajsharmacs18)
-
-</div>
-
----
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
