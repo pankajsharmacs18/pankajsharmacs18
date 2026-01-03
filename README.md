@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://photos.app.goo.gl/NcwUwPChDA5Z9u7D8" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
+  <img src=["https://photos.app.goo.gl/NcwUwPChDA5Z9u7D8](https://www.springboard.com/blog/software-engineering/coding-skills/)" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
   
   <h1 align="center">Pankaj Sharma</h1>
   <h3 align="center">🚀 Full Stack Developer | Automation Engineer | Problem Solver</h3>
